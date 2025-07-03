@@ -79,22 +79,6 @@ An animated real-time simulation of a bustling industrial cargo port — created
 
 ---
 
-## 📄 Report
-
-The full project report describing system design, animation techniques, and implementation challenges is available here:  
-📘 [`Project Report.pdf`](./Project%20Report.pdf)
-
----
-
-## 📚 References
-
-- NeHe OpenGL Tutorials: http://nehe.gamedev.net  
-- Port Simulator 2012, UIG Entertainment  
-- Kilgard, M. J. (1996). *OpenGL Programming for the X Window System*  
-- OpenTTD & Transport Tycoon Deluxe Community: https://www.tt-forums.net  
-
----
-
 > 🎓 Developed as an academic project for **American International University-Bangladesh (AIUB)**  
 > Course: Computer Graphics (CSC4118)  
 > Instructor: Dipta Justin Gomes
